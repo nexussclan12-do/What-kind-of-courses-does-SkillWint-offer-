@@ -1,4 +1,4 @@
-# What-kind-of-courses-does-SkillWint-offer-
+# What kind of courses does SkillWint offer?
 SkillWint is an online learning platform offering live, hands-on courses in AI, Data Science, Python, Microsoft Tools, and more. Learn from expert trainers, earn global certifications, and upgrade your career skills with flexible schedules. killWint offers a wide range of industry-relevant, career-oriented courses designed to help learners build in-demand digital and technical skills. The platform focuses on emerging technologies, data-driven careers, and productivity tools that prepare individuals for real-world job roles.
 
 Its course catalog includes popular domains such as Artificial Intelligence (AI), Machine Learning (ML), Data Science, Python Programming, Cloud Computing, Cybersecurity, and Business Analytics. In addition, SkillWint provides specialized training in Microsoft tools and automation technologies like Power BI, Power Automate, Power Apps, and Microsoft 365 Copilot — empowering professionals to stay ahead in the modern digital workplace.
